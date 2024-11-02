@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayafeira.github.io/AtY/sitemap_index.txt
+Sitemap: https://ayafeira.github.io/DMQ/sitemap_index.txt
+Sitemap: https://ayafeira.github.io/LKh/sitemap_index.txt
+Sitemap: https://ayafeira.github.io/hWP/sitemap_index.txt
